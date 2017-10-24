@@ -165,3 +165,9 @@ The Kansas State University Department of Computer Science has a final say in ma
 The established policy of the Board of Regents prohibits discrimination on the basis of age, race, color, religion, sex, marital status, national origin, physical handicap or disability, status as a Vietnam Era Veteran, sexual orientation or other factors which cannot be lawfully considered, within the state universities.  All fraternal and campus related organizations shall follow this policy in the selection of their members, except the prohibition against sex discrimination shall not apply to social fraternities or sororities which are excluded from the application of Title IX of the Education Amendments of 1972 (20 U.S.C. Sec. 1681 et seq.).
 
 The right of organizations to establish standards for membership is acknowledged, provided that all students are afforded equal opportunity to meet those standards.  Just as all students have the right to choose those with whom they would associate on the campus, an organization shall have the right to select its members subject to these principles.  Nothing in this policy shall be interpreted as imposing a requirement which would violate the principle of selection on the basis of individual merit.
+
+## September 2017
+
+### Absences from Events
+
+Officers and Junior Officers that miss an ACM event to attend an official university event shall be excused as long as they notify the outreach chair beforehand. All other absences will be unexcused.
